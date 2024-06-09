@@ -1,3 +1,5 @@
+## Deep Neural Network Model Example
+
 ## Overview
 This Jupyter Notebook, `Model_DNN.ipynb`, is designed to demonstrate the construction, training, and evaluation of a deep neural network (DNN) model. The notebook includes detailed explanations and code for each step of the process, from data preprocessing to model evaluation.
 
